@@ -29,7 +29,7 @@ spec:
             PORT: 3000
             NODE_ENV: "production"
       # secrets:
-      #   - MY_SUPER_SECRET
+      #   - MY_SUPER_SECRET1
     - name: www
       src: ./www
       ports:
